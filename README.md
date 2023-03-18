@@ -1,3 +1,11 @@
+Please develop the code and all other materials in a shared (private) GitHub repo. The structure of the implementation is largely left to you, however your code/repo should contain:
+
+A README which outlines any requirements and dependencies
+Instructions detailing how to run the code and reproduce any tables/plots in your presentation and report
+Full documentation (docstrings as well as inline comments)
+A statement explaining the contributions of each group member
+After the course ends, your group is welcome to make your project public.
+
 # 400Q_Project
 
 # Link to paper: https://arxiv.org/pdf/2012.11242.pdf

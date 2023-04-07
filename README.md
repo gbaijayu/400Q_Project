@@ -11,7 +11,7 @@ Note: Our repo does not have many commits because we always worked together in-p
 
 ## How to run:
 1. Upload notebook to [Google Colab](https://colab.research.google.com/)
-  1.1 We used Google Colab for this project. Other options like running jupter notebook locally on VS Code should also work.
+    - We used Google Colab for this project. Other options like running jupter notebook locally on VS Code should also work.
 3. Make sure the notebook is "connected"
 4. Under "Runtime" bar, click "Restart and run all"
 5. Wait for codes to finish running and generating plots (about 2.5 hours)
